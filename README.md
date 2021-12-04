@@ -7,7 +7,7 @@
 * NPC Generation
 * Weapon Generation
 * Encounter Generation
-* Enviornment Generation
+* Environment Generation
 * World Generation
 
 ### Built-in Rarities
